@@ -19,8 +19,8 @@ jobs:
       - name: Generate Snake SVG (with private contributions)
         uses: Platane/snk@v3
         with:
-          github_user_name: luxetidal
-          github_token: ${{ secrets.PAT_LUXETIDAL }} 
+          github_user_name: snitch97
+          github_token: ${{ secrets.PAT_SNITCH }} 
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push Snake Animation to output branch
