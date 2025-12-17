@@ -96,6 +96,12 @@
   <img src="https://github.com/snitch97/snitch97/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
+</picture>
+
 ## 🤝 Connect & Follow
 
 <p align="center">
@@ -110,3 +116,4 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78518&width=700&lines=Don't+forget+to+star+the+repositories+you+like!;Follow+me+for+more+cool+projects!" alt="Typing SVG" />
 </p>
+
