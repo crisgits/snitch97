@@ -77,27 +77,19 @@
         <br>Go
     </td>
     <td align="center" width="103">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="45" height="45" />
-      <br>Django
-    </td>
-    <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
       <br>Laravel
     </td>
     <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
-      <br>WordPress
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="103">
-      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="48" height="48" />
-      <br>Redux
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" />
+      <br>FastAPI
     </td>
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=d3" width="40" height="40" alt="D3.js" />
       <br>D3.js
     </td>
+  </tr>
+  <tr>
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" />
       <br>Flutter
@@ -111,34 +103,12 @@
       <br>Node.js
     </td> 
     <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="103">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" />
-      <br>REST API
-    </td>
-    <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=solidity" width="40" height="40" alt="Solidity" />
       <br>Solidity
     </td>    
-  </tr>
-  <tr>
-    <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=materialui" width="40" height="40" alt="Material UI" />
-      <br>Material UI
-    </td>
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
       <br>Tailwind
-    </td>
-    <td align="center" width="103">
-      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="48" height="48" />
-      <br>Sass
-    </td>
-    <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" />
-      <br>Bootstrap
     </td>
     <td align="center" width="103">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
@@ -147,10 +117,6 @@
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
       <br>MongoDB
-    </td>
-    <td align="center" width="103">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
-      <br>MySQL
     </td>
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
@@ -188,6 +154,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78518&width=700&lines=Don't+forget+to+star+the+repositories+you+like!;Follow+me+for+more+cool+projects!" alt="Typing SVG" />
 </p>
+
 
 
 
